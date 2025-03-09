@@ -21,4 +21,7 @@ The project follows these steps:
 2. Data Cleaning: Managing missing values, eliminating duplicates, and correcting errors to improve data quality.
 3. Exploratory Data Analysis (EDA): Examining the dataset to identify key patterns and insights.
 4. Visualization: Using bar charts,line chart, box plot and heatmap to understand user behavior.
-
+## Data Visualization
+1. The majority of rides occur during the evening and night, indicating higher demand after work hours.
+2. Different ride categories (e.g., Personal vs. Business) show varied usage patterns
+3. The analysis highlights time-based demand surges, seasonal variations, and purpose-driven ride usage, helping businesses optimize ride availability and pricing strategies. 
